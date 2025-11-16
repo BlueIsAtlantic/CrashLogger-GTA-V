@@ -38,5 +38,5 @@ After a crash, open your GTA V directory and check **CrashLogger_Log.txt** for a
 
 ## Why use CrashLogger?
 Tired of silent crashes or your own crash handler not giving answers?  
-CrashLogger provides engine-crash's error codes and custom logs.
+CrashLogger provides engine-crash error codes and custom logs.
 
