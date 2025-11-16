@@ -8,14 +8,14 @@ Supports both **GTA V Legacy** and **GTA V Enhanced**.
 
 ## Features
 - Detects silent or normal engine crashes  
-- Lets your mod write custom log messages  
+- Let's your mod write custom log messages  
 - Outputs detailed information to **CrashLogger_Log.txt**  
 - Simple integration via a single C# file  
 
 ---
 
 ## Requirements
-- **ScriptHookV**
+- **[ScriptHookV](https://www.gta5-mods.com/tools/script-hook-v)**
 
 ---
 
