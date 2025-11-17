@@ -15,7 +15,7 @@ Supports both **GTA V Legacy** and **GTA V Enhanced**.
 ---
 
 ## Requirements
-- **Loader(dinput8.dll from ScriptHookV package works perfectly fine)**
+- **None**
 
 ---
 
