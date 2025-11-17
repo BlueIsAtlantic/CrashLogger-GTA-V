@@ -15,7 +15,7 @@ Supports both **GTA V Legacy** and **GTA V Enhanced**.
 ---
 
 ## Requirements
-- **ScriptHookV**
+- **None.**
 
 ---
 
