@@ -15,12 +15,12 @@ Supports both **GTA V Legacy** and **GTA V Enhanced**.
 ---
 
 ## Requirements
-- **None**
+- **ScriptHookV**
 
 ---
 
 ## Installation
-1. Drop `CrashLogger.dll` into your main **GTA V directory**.
+1. Drop `CrashLogger.asi` into your main **GTA V directory**.
 
 ---
 
